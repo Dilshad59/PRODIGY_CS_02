@@ -4,7 +4,7 @@ Pixel Manipulation for Image Encryption. A simple image encryption tool using pi
 How to Use This Script
 
 Install Pillow: Ensure you have the Pillow library installed:
-&pip install pillow
+pip install pillow
 
 Save the Script: Save the script to a file eg:filename.py
 
@@ -14,6 +14,8 @@ Run the script using:
 python filename.py
 
 Follow Prompts:
+\\
+
 Enter the path to your image file.
 Choose an operation (swap or multiply).
 Enter an integer key for the encryption and decryption process.
